@@ -15,5 +15,5 @@ When the program starts, it loads the existing notes from the JSON file and prov
 
 When performing add and edit operations, the user must enter an ID, title, and body of the note. When performing an edit operation, the user can also change the title and body of the note.
 
-On each operation, the program saves the modified note dictionary to a JSON file so that the changes persist between program runs.
+On each operation, the program saves the modified note dictionary to a JSON file so that the changes persist between program runs. 
 
